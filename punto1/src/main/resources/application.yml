@@ -1,7 +1,7 @@
 spring:
   application:
     # This should match the name used in config files
-    name: simple-microservice 
+    name: davidfperezm-rodriguezlukas-uscateguial
   config:
     # Config server url
     import: configserver:http://localhost:8888

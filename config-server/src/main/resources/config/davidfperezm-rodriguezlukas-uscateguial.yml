@@ -3,7 +3,7 @@ spring:
     # Never use '_' in application name, both in application.yaml and pom.xml
     # Use '-' instead
     # Otherwise gateway may not work correctly
-    name: simple-microservice
+    name: davidfperezm-rodriguezlukas-uscateguial
 
 
 server:
@@ -13,7 +13,7 @@ server:
 # App metadata
 info:
   app:
-    name: Simple Microservice
+    name: davidfperezm-rodriguezlukas-uscateguial
     description: A simple microservice example
     version: 1.0.0
   company:
