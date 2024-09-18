@@ -1,0 +1,8 @@
+###
+GET http://localhost:8888/simple-microservice/default
+
+###
+GET http://localhost:8888/consumer-example/default
+
+###
+GET http://localhost:8888/producer-example/default
